@@ -1,3 +1,7 @@
+# Video stream sharing - React starter project
+
+A starter project for video stream sharing to explore React features: Redux, Redux Form, Redux Thunk, Context. Includes basic CRUD functionality, Google OAuth2 Authentication, Node media server RTMP streaming.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
